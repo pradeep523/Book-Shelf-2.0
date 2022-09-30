@@ -132,4 +132,12 @@ const books = [
     "Status": "Died ",
     "Book Name": "polytical carrier", 
 },
+   {
+    "id": "45",
+    "Author": "Gaur Gopal Das",
+    "Born": "26 Dec",
+    "Status": "Alive",
+    "Book Name": "Life's Amazing Secret", 
+  }
+
 ]
