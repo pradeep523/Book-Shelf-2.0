@@ -97,6 +97,19 @@ const books = [
     "Status": "Death",
     "Book Name": "wings of fire", 
   },
+  {
+     "id": "21",
+    "Author": "Napoleon Hills",
+    "Born": "26 oct 1883",
+    "Status": "dead",
+    "Book Name": "Think and Grow Rich", 
   
-
+    {
+    "id": "22",
+    "Author": "Chetan Bhagat",
+    "Born": "22 April ",
+    "Status": "alive",
+    "Book Name": "half girlfriend",
+  },
+    
 ]
