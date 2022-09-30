@@ -76,5 +76,12 @@ const books = [
     "Status": "alive",
     "Book Name": "Revolution 2020 ", 
   },
+   {
+    "id": "19",
+    "Author": "abram linken",
+    "Born": "22 Aug ",
+    "Status": "Death",
+    "Book Name": "Revolution 20222", 
+  },
 
 ]
