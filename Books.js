@@ -47,6 +47,13 @@ const books = [
     "Status": "alive",
     "Book Name": "The Girl in Room 105 ", 
   },
+   {
+    "id": "6",
+    "Author": "Colleen Hoover",
+    "Born": "22 April ",
+    "Status": "alive",
+    "Book Name": "UGLY LOVE ", 
+  },
 
    {
     "id": "8",
