@@ -25,5 +25,14 @@ const books = [
     "Status": "Died at 15 jan",
     "Book Name": "World book record", 
   },
+  
+  
+  {
+    "id": "4",
+    "Author": "de, broglii",
+    "Born": "26 aug",
+    "Status": "Died at 26 jan",
+    "Book Name": "World book record", 
+  },
 
 ]
