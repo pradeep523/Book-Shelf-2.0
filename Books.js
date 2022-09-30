@@ -49,16 +49,21 @@ const books = [
   },
 
    {
-    "id": "5",
+    "id": "8",
     "Author": "Alexander Mccall Smith",
     "Born": "24 aug 1948",
     "Status": "Alive",
     "Book Name": "Trains and Lovers", 
   },
-  
+{
+    "id": "6",
+    "Author": "Napoleon Hills",
+    "Born": "26 oct 1883",
+    "Status": "dead",
+    "Book Name": "Think and Grow Rich", 
   
  {
-    "id": "6",
+    "id": "7",
     "Author": "Chetan Bhagat",
     "Born": "22 April ",
     "Status": "alive",
