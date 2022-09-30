@@ -49,7 +49,7 @@ const books = [
   },
 
    {
-    "id": "5",
+    "id": "8",
     "Author": "Alexander Mccall Smith",
     "Born": "24 aug 1948",
     "Status": "Alive",
@@ -61,6 +61,13 @@ const books = [
     "Born": "26 oct 1883",
     "Status": "dead",
     "Book Name": "Think and Grow Rich", 
+  
+ {
+    "id": "7",
+    "Author": "Chetan Bhagat",
+    "Born": "22 April ",
+    "Status": "alive",
+    "Book Name": "Revolution 2020 ", 
   },
 
 ]
