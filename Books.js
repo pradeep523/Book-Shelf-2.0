@@ -55,5 +55,12 @@ const books = [
     "Status": "Alive",
     "Book Name": "Trains and Lovers", 
   },
+{
+    "id": "6",
+    "Author": "Napoleon Hills",
+    "Born": "26 oct 1883",
+    "Status": "dead",
+    "Book Name": "Think and Grow Rich", 
+  },
 
 ]
