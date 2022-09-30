@@ -56,19 +56,39 @@ const books = [
   },
 
    {
-    "id": "5",
+    "id": "8",
     "Author": "Alexander Mccall Smith",
     "Born": "24 aug 1948",
     "Status": "Alive",
     "Book Name": "Trains and Lovers", 
   },
    {
-    "id": "8",
+    "id": "9",
     "Author": "Colleen Hoover",
     "Born": "22 April ",
     "Status": "alive",
     "Book Name": "November", 
   },
-
+{
+    "id": "6",
+    "Author": "Napoleon Hills",
+    "Born": "26 oct 1883",
+    "Status": "dead",
+    "Book Name": "Think and Grow Rich", 
+  
+ {
+    "id": "7",
+    "Author": "Chetan Bhagat",
+    "Born": "22 April ",
+    "Status": "alive",
+    "Book Name": "Revolution 2020 ", 
+  },
+   {
+    "id": "19",
+    "Author": "abram linken",
+    "Born": "22 Aug ",
+    "Status": "Death",
+    "Book Name": "Revolution 20222", 
+  },
 
 ]
