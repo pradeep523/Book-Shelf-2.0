@@ -111,5 +111,12 @@ const books = [
     "Status": "alive",
     "Book Name": "half girlfriend",
   },
+  {
+    "id": "44",
+    "Author": "mahtma gandhi",
+    "Born": "22 august ",
+    "Status": "dead",
+    "Book Name": "polytics", 
+  },
     
 ]
