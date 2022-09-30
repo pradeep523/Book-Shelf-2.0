@@ -55,5 +55,14 @@ const books = [
     "Status": "Alive",
     "Book Name": "Trains and Lovers", 
   },
+  
+  
+ {
+    "id": "6",
+    "Author": "Chetan Bhagat",
+    "Born": "22 April ",
+    "Status": "alive",
+    "Book Name": "Revolution 2020 ", 
+  },
 
 ]
