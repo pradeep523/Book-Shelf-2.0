@@ -62,6 +62,13 @@ const books = [
     "Status": "Alive",
     "Book Name": "Trains and Lovers", 
   },
+   {
+    "id": "9",
+    "Author": "Colleen Hoover",
+    "Born": "22 April ",
+    "Status": "alive",
+    "Book Name": "November", 
+  },
 {
     "id": "6",
     "Author": "Napoleon Hills",
