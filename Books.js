@@ -25,5 +25,12 @@ const books = [
     "Status": "Died at 15 jan",
     "Book Name": "World book record", 
   },
+  {
+    "id": "50",
+    "Author": "Anne Frank",
+    "Born": "14 June 1942 ",
+    "Status": "Died on 1 August 1944",
+    "Book Name": "The diary of a young girl", 
+},
 
 ]
