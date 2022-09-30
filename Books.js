@@ -90,5 +90,13 @@ const books = [
     "Status": "Death",
     "Book Name": "Revolution 20222", 
   },
+   {
+    "id": "20",
+    "Author": "apj ",
+    "Born": "15 october ",
+    "Status": "Death",
+    "Book Name": "wings of fire", 
+  },
+  
 
 ]
