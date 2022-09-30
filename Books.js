@@ -125,4 +125,11 @@ const books = [
     "Status": "dead",
     "Book Name": "polytics", 
   }, 
+  {
+    "id": "78",
+    "Author": "ambedkar",
+    "Born": "14 July 1942 ",
+    "Status": "Died ",
+    "Book Name": "polytical carrier", 
+},
 ]
