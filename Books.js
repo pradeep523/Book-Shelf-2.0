@@ -138,6 +138,13 @@ const books = [
     "Born": "26 Dec",
     "Status": "Alive",
     "Book Name": "Life's Amazing Secret", 
+  },
+  {
+    "id": "46",
+    "Author": "Peter Thiel",
+    "Born": " 11,Oct 1967",
+    "Status": "Alive",
+    "Book Name": "Zero to one", 
   }
 
 ]
