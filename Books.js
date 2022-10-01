@@ -146,5 +146,12 @@ const books = [
     "Status": "Alive",
     "Book Name": "Zero to one", 
   }
+   {
+    "id": "47",
+    "Author": "Ashlee Vance",
+    "Born": " JAN 1969",
+    "Status": "Alive",
+    "Book Name": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future", 
+  }
 
 ]
